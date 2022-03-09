@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "asdasd",
+      "category": "Electronict",
+      "freshness": "Brand new",
+      "price": 21,
+      "comment": "12312312sdadsad asdas ",
+      "date": "2022-03-15T21:00:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
